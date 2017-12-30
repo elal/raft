@@ -27,6 +27,7 @@ public class Test {
         });
 
         try {
+            System.out.println("aaa test push github");
             ch.connect("cntrs");
             loop();
         }
